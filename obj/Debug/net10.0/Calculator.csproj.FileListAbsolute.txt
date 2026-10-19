@@ -1,0 +1,14 @@
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/bin/Debug/net10.0/Calculator
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/bin/Debug/net10.0/Calculator.deps.json
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/bin/Debug/net10.0/Calculator.runtimeconfig.json
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/bin/Debug/net10.0/Calculator.dll
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/bin/Debug/net10.0/Calculator.pdb
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/obj/Debug/net10.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfoInputs.cache
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfo.cs
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/obj/Debug/net10.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/obj/Debug/net10.0/Calculator.dll
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/obj/Debug/net10.0/refint/Calculator.dll
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/obj/Debug/net10.0/Calculator.pdb
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/obj/Debug/net10.0/Calculator.genruntimeconfig.cache
+/Users/husseinal-hejami/Documents/CodeAlonge/Calculator/obj/Debug/net10.0/ref/Calculator.dll
